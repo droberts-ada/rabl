@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.14.0 (October 31st, 2018)
+
+* Compatibility with Rails 5 API mode
+
 ## 0.13.1 (October 21st, 2016)
 
 * Further compatibility with Rails 5
